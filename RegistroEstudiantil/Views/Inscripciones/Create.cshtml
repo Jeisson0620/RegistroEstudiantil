@@ -1,0 +1,41 @@
+﻿@model RegistroEstudiantil.Models.Inscripciones
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Inscripciones</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Fecha_Inscripcion" class="control-label"></label>
+                <input asp-for="Fecha_Inscripcion" class="form-control" />
+                <span asp-validation-for="Fecha_Inscripcion" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="IDEstudiantes" class="control-label"></label>
+                <select asp-for="IDEstudiantes" class ="form-control" asp-items="ViewBag.IDEstudiantes"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="ID_cursos" class="control-label"></label>
+                <select asp-for="ID_cursos" class ="form-control" asp-items="ViewBag.ID_cursos"></select>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

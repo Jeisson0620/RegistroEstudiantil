@@ -1,0 +1,47 @@
+﻿@model IEnumerable<RegistroEstudiantil.Models.Inscripciones>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Fecha_Inscripcion)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Estudiantes)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Cursos)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Fecha_Inscripcion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Estudiantes.IDEstudiantes)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Cursos.IDCursos)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.ID_inscripcion">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.ID_inscripcion">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.ID_inscripcion">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

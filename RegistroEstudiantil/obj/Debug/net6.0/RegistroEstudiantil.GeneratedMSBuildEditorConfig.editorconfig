@@ -20,12 +20,112 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/User1/source/repos/RegistroEstudiantil/RegistroEstudiantil/Views/Cursos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3Vyc29zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User1/source/repos/RegistroEstudiantil/RegistroEstudiantil/Views/Cursos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3Vyc29zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User1/source/repos/RegistroEstudiantil/RegistroEstudiantil/Views/Cursos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3Vyc29zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User1/source/repos/RegistroEstudiantil/RegistroEstudiantil/Views/Cursos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3Vyc29zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User1/source/repos/RegistroEstudiantil/RegistroEstudiantil/Views/Cursos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3Vyc29zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User1/source/repos/RegistroEstudiantil/RegistroEstudiantil/Views/Estudiantes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0dWRpYW50ZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User1/source/repos/RegistroEstudiantil/RegistroEstudiantil/Views/Estudiantes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0dWRpYW50ZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User1/source/repos/RegistroEstudiantil/RegistroEstudiantil/Views/Estudiantes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0dWRpYW50ZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User1/source/repos/RegistroEstudiantil/RegistroEstudiantil/Views/Estudiantes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0dWRpYW50ZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User1/source/repos/RegistroEstudiantil/RegistroEstudiantil/Views/Estudiantes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0dWRpYW50ZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/User1/source/repos/RegistroEstudiantil/RegistroEstudiantil/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/User1/source/repos/RegistroEstudiantil/RegistroEstudiantil/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User1/source/repos/RegistroEstudiantil/RegistroEstudiantil/Views/Inscripciones/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zY3JpcGNpb25lc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User1/source/repos/RegistroEstudiantil/RegistroEstudiantil/Views/Inscripciones/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zY3JpcGNpb25lc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User1/source/repos/RegistroEstudiantil/RegistroEstudiantil/Views/Inscripciones/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zY3JpcGNpb25lc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User1/source/repos/RegistroEstudiantil/RegistroEstudiantil/Views/Inscripciones/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zY3JpcGNpb25lc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User1/source/repos/RegistroEstudiantil/RegistroEstudiantil/Views/Inscripciones/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zY3JpcGNpb25lc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User1/source/repos/RegistroEstudiantil/RegistroEstudiantil/Views/notas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncbm90YXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User1/source/repos/RegistroEstudiantil/RegistroEstudiantil/Views/notas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncbm90YXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User1/source/repos/RegistroEstudiantil/RegistroEstudiantil/Views/notas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncbm90YXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User1/source/repos/RegistroEstudiantil/RegistroEstudiantil/Views/notas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncbm90YXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User1/source/repos/RegistroEstudiantil/RegistroEstudiantil/Views/notas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncbm90YXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User1/source/repos/RegistroEstudiantil/RegistroEstudiantil/Views/Profesores/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmVzb3Jlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User1/source/repos/RegistroEstudiantil/RegistroEstudiantil/Views/Profesores/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmVzb3Jlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User1/source/repos/RegistroEstudiantil/RegistroEstudiantil/Views/Profesores/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmVzb3Jlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User1/source/repos/RegistroEstudiantil/RegistroEstudiantil/Views/Profesores/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmVzb3Jlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User1/source/repos/RegistroEstudiantil/RegistroEstudiantil/Views/Profesores/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmVzb3Jlc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/User1/source/repos/RegistroEstudiantil/RegistroEstudiantil/Views/Shared/Error.cshtml]
